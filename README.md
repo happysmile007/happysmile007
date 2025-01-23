@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2024 Goals: Learn more about web3
+- 🥅 2025 Goals: Learn more about web3
 - ⚡ Fun fact: I love to journey
 ### Languages and Tools:
 
