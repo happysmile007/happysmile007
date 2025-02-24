@@ -1,10 +1,10 @@
-# Fullstack Developer - HappySmile
+# HappySmile 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2025 Goals: Learn more about web3
+<!-- - 👯 I’m looking to collaborate with other developer -->
+<!-- - 🥅 2025 Goals: Learn more about web3 -->
 - ⚡ Fun fact: I love to journey
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode-url]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html5-url]
@@ -52,4 +52,4 @@
 [license-shield]: https://img.shields.io/github/license/happysmile007/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/happysmile007/Best-README-Template/blob/master/LICENSE.txt
 [venduredocs]: https://vendure.io/
-[sveltekit-url]: https://kit.svelte.dev/
+[sveltekit-url]: https://kit.svelte.dev/ -->
